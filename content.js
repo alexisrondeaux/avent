@@ -19,7 +19,7 @@ const CALENDRIER = {
     sousTitre: "Une petite surprise chaque jour jusqu'à Noël.",
     signature: "Fait avec amour",      // en bas de page
     fuseau: "Europe/Paris",            // les cases s'ouvrent à minuit dans ce fuseau
-    codeApercu: "CHANGE-MOI"           // code secret pour tout voir à l'avance (voir LISEZ-MOI)
+    codeApercu: "TEST"           // code secret pour tout voir à l'avance (voir LISEZ-MOI)
   },
 
   jours: {
