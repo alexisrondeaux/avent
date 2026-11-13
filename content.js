@@ -29,7 +29,7 @@ const CALENDRIER = {
     4:  {}, 5:  {}, 6:  {}, 7:  {}, 8:  {}, 9:  {}, 10: {},
     11: {}, 12: {}, 13: {}, 14: {}, 15: {}, 16: {}, 17: {},
     18: {}, 19: {}, 20: {}, 21: {}, 22: {},
-    23: { titre: "C'est aujourd'hui !", message: "Moguiz et son golden !!!", rdv: { quand: "Mercredi 23 décembre, 20h", ou: "Théâtre des Bouffes Parisiens", details: "Spectacle « Coucou » de Moguiz" } },
+    23: { titre: "C'est aujourd'hui !", photo: "moguiz-coucou.png", legende: "Affiche du spectacle Coucou ! de Moguiz", message: "Moguiz et son golden !!!", rdv: { quand: "Mercredi 23 décembre, 20h", ou: "Théâtre des Bouffes Parisiens", details: "Spectacle « Coucou » de Moguiz" } },
     24: {}
   }
 };
