@@ -14,10 +14,10 @@
 const CALENDRIER = {
   config: {
     annee: 2026,
-    prenom: "",                        // son prénom (ou surnom), affiché en haut
+    prenom: "nineybaby",                     // son prénom (ou surnom), affiché en haut
     titre: "Notre calendrier de l'avent",
     sousTitre: "Une petite surprise chaque jour jusqu'à Noël.",
-    signature: "Fait avec amour",      // en bas de page
+    signature: "Fait avec amour par alexischeri",     // en bas de page
     fuseau: "Europe/Paris",            // les cases s'ouvrent à minuit dans ce fuseau
     codeApercu: "TEST"           // code secret pour tout voir à l'avance (voir LISEZ-MOI)
   },
