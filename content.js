@@ -30,7 +30,8 @@ const CALENDRIER = {
     9:  { titre: "Bon pour un Hirono", photo: "hirono.png", rdv: { quand: "Mercredi 9 décembre, vers midi", ou: "Pop Mart, La Défense" } },
     10: {},
     11: {}, 12: {}, 13: {}, 14: {}, 15: {}, 16: {}, 17: {},
-    18: {}, 19: {}, 20: {}, 21: {}, 22: {},
+    18: { titre: "Cinéma", message: "[BROUILLON, À FINALISER : film et lieu à choisir]", rdv: { quand: "Vendredi 18 décembre" } },
+    19: {}, 20: {}, 21: {}, 22: {},
     23: { titre: "C'est aujourd'hui !", photo: "moguiz-coucou.png", legende: "Affiche du spectacle Coucou ! de Moguiz", message: "Moguiz et son golden !!!", rdv: { quand: "Mercredi 23 décembre, 20h", ou: "Théâtre des Bouffes Parisiens", details: "Spectacle « Coucou » de Moguiz" } },
     24: {}
   }
